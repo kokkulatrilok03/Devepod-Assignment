@@ -2,6 +2,10 @@
 
 A full-stack Enterprise Resource Planning (ERP) system tailored for the construction industry, built with React, Node.js, Express, and SQLite.
 
+## Live Deployment
+- Frontend: https://devepod-assignment.vercel.app/
+- Backend API: https://devepod-assignment.onrender.com/api
+
 ## Features
 
 ### Core Features
